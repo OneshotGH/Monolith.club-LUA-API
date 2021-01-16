@@ -4,11 +4,8 @@ title: Structures
 sidebar_label: Structures
 slug: /
 ---
-
 ## Globals
-
-Globals
-{
+```
 realtime
 framecount
 curtime
@@ -18,7 +15,17 @@ tickcount
 interval_per_tick
 interpolation_amount
 simTicksThisFrame
-}
+```
 
-test
----
+## player_info_t
+```
+steam_id
+xuidlow
+xuidhigh
+name
+userid
+friends_id
+friends_name
+fakeplayer
+ishltv
+```
