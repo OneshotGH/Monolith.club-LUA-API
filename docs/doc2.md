@@ -8,14 +8,14 @@
 ### Usage example
 ```lua
 --Will draw a line on the upper left corner of your screen
-function on_paint()
+function on_paint(renderer)
     renderer:add_line(vec2.new(15,15),vec2.new(10,10),color.new(255,255,255,255):d3d(),color.new(255,255,255,255):d3d())
 end
 client.add_callback("on_paint",on_paint)
 
 
 --Another way of paint
-client.add_callback("on_paint",function ()
+client.add_callback("on_paint",function (renderer)
     renderer:add_line(vec2.new(15,15),vec2.new(10,10),color.new(255,255,255,255):d3d(),color.new(255,255,255,255):d3d())
 end)
 
