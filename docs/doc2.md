@@ -4,7 +4,9 @@
 | Name       | Type         | Info                                                           |
 |------------|--------------|----------------------------------------------------------------|
 | Event Name | string       | Callback of CS:GO [Event](https://wiki.alliedmods.net/Counter-Strike:_Global_Offensive_Events) or Cheat Callbacks |
-| Function   | Lua Function |                                                                |
+| Function   | Lua Function |
+id: intro
+title: Getting Started|
 ### Usage example
 ```lua
 --Will draw a line on the upper left corner of your screen
