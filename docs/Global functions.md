@@ -1,10 +1,4 @@
 ---
-id: doc2
-title: Global functions
-sidebar_label: Global functions
-slug: /
----
----
 ### formatInt
 ```cpp
 string formatInt(int64 val, const string&in options = "", uint width = 0)
