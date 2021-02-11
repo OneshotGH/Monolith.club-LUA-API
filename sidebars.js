@@ -1,5 +1,5 @@
 module.exports = {
   someSidebar: {
-    LuaAPI: ['doc1', 'Global functions', 'doc3'],
+    LuaAPI: ['GlobalFunctions', 'D3D9Renderer', 'string','Vec2','Vector','Color','array'],
   },
 };
