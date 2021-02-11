@@ -1,5 +1,4 @@
 
-# Vec2
 ## Behaviors
 ```cpp
 Vec2()

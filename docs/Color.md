@@ -1,5 +1,4 @@
 
-# Color
 ## Behaviors
 ```cpp
 Color()

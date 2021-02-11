@@ -1,5 +1,4 @@
 
-# string
 ## Behaviors
 ```cpp
 ~string()

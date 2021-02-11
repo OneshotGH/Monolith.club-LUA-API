@@ -1,5 +1,4 @@
 
-# array
 ## Behaviors
 ```cpp
 void $beh5()

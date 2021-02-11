@@ -1,5 +1,4 @@
 
-# D3D9Renderer
 ## Methods
 ### Line
 ```cpp

@@ -1,5 +1,4 @@
 
-# Vector
 ## Behaviors
 ```cpp
 Vector()
